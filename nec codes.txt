@@ -1,0 +1,91 @@
+ON: IrSender.sendPulseDistanceWidth(38, 9000, 4450, 550, 1650, 550, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+STANDBY: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00EB14E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+FREEZE: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+VOL+: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 500, 1750, 500, 600, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+VOL-: IrSender.sendPulseDistanceWidth(38, 8900, 4500, 550, 1700, 550, 600, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+
+
+
+
+
+
+ON:
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1700, 550, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1700, 550, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4450, 550, 1700, 550, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1700, 550, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4450, 600, 1650, 600, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1650, 550, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1650, 550, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00F708E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+
+
+
+
+FREEZE:
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4400, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4450, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1650, 550, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4400, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4450, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8900, 4500, 550, 1650, 550, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4500, 600, 1650, 600, 550, 0xFF00B34CE918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+
+
+
+
+
+
+
+
+
+
+
+
+VOL-:
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1650, 550, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4500, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8900, 4500, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1650, 550, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B649E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+
+
+
+
+
+
+
+
+
+
+VOL+:
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 600, 1650, 600, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4450, 600, 1650, 600, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4400, 550, 1650, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4500, 550, 1700, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1700, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4500, 550, 1700, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4500, 550, 1700, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1700, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4450, 550, 1700, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 9000, 4400, 550, 1650, 550, 550, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4500, 550, 1700, 550, 600, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+Send with: IrSender.sendPulseDistanceWidth(38, 8950, 4500, 500, 1700, 500, 600, 0xFF00B748E918, 48, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
